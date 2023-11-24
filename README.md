@@ -6,8 +6,8 @@ I'm a French guy that does computer stuff.
 
 ### Some facts about me
 - 🎓 Studiying Computer Science
-- 🌱 Want to learn more about System Architecture, Design Pattern,Continuous Integration and programming language theory
-- 🔒 Cybersecurity Enthusiast
+- 🌱 Want to learn more about System Architecture, System integration, Design Pattern, and programming language theory
+- 🔒 Security Enthusiast
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Homets&show_icons=true&locale=en&layout=compact&theme=light" alt="ovi" />
